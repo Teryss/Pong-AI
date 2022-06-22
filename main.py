@@ -1,4 +1,3 @@
-import aifc
 import os
 import neat
 import pygame
